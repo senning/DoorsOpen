@@ -1,0 +1,15 @@
+/* Foundation v2.2.1 http://foundation.zurb.com */
+/* This is for all IE specfific style less than IE9. We hate IE. */
+
+	#location-list #featured button.detailBuilding{
+		padding: 14px 1px 10px 11px;
+	}
+	#main-header{padding: 10px 0;}
+	#main-header h1,#main-header h2{display:inline;}
+	#details{
+		width: 100%;
+	}
+	.closePane,
+	.addBuilding,
+	.removeBuilding
+	{width: 48px;}

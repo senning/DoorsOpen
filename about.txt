@@ -1,0 +1,17 @@
+Festify is an independent, voluntary development and not affiliated in any way with the City of Toronto nor with Doors Open or any of its sponsors. However, the City's open data initiative made this project far more practical than it would otherwise have been - that support is appreciated.
+
+From its beginning 12 years ago, Doors Open has been on a weekend near my birthday; the annual tours around the city's architectural and engineering gems has been a real gift for me. This year, I wanted to return that gift and so I created Festify.
+
+Questions I Wanted to Answer
+
+Festify made it so much easier to enjoy Doors Open and coordinate with my friends. Since it's ad-free could I donate to support your work?
+
+Yes please! You can donate through PayPal!
+
+Festify must have taken a lot of work to make. Did you get any help in its programming?
+
+I can't thank enough the wonderful people at Zurb (creators of Foundation) and jQuery for producing such great bases on which to build the web. Linux, Apache, MySQL and PHP are the cornerstones of this profession and their commitment to free and Free/Libre software made possible the internet as we know it.
+
+I'm planning a festival and something like Festify would be great for our guests. How can I use it for my event?
+
+Festify is an open-source project and you can get the code on GitHub. I also plan to flesh out Festify so that organizers can post their events and bundle them in to festivals. Until then, I'm also available to customize it for your needs!
